@@ -1,0 +1,203 @@
+.body{
+	margin: 0;
+	padding: 0;
+	background: grey;
+}
+
+.wrapper1{
+	
+	height: 100vh;
+}
+.wrapper{
+	width: 960px;
+	margin: 0 auto;
+}
+.head{
+	background: white;
+	padding-top: 10px;
+	
+
+}
+
+.cont1{
+	border-bottom: 1px solid grey;
+	overflow: hidden;
+}
+
+.logo{
+float: left;
+width: 30%;
+box-sizing: border-box;
+padding-left: 30px;
+}
+.cont1 h4{
+	display: inline-block;
+	color: grey;
+	text-align: center;
+	transform: translateY(-15px);
+}
+.icon{
+	float: right;
+	width: 45%;
+	box-sizing: border-box;
+	
+	position: relative;
+}
+
+.cursor{
+	position: absolute;
+	left: 18px;
+	bottom: 0;
+}
+
+.cont2{
+	
+}
+
+.menu ul{
+	list-style: none;
+	margin: 0;
+}
+.menu ul li{
+	display: inline-block;
+	margin-left: -35px;
+	padding: 20px;
+	font-weight: bold;
+	color: grey;
+}
+#a{
+	color: green;
+}
+
+.slider{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+.image{
+	
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.image img{
+	width: 100%;
+}
+
+.image2{
+	/*border: 2px solid red;*/
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;	
+	position: absolute;
+	left: 250px;
+	bottom: 0;
+	top:110px;
+
+	
+}
+.image2 img{
+	width: 50%;
+}
+
+.content{
+	margin: 0;
+	padding: 30px;
+	color: grey;
+}
+
+.content p{
+	font-weight: bold;
+	text-align: justify;
+
+
+}
+
+.btn{
+	text-align: center;
+}
+
+.btn input{
+	text-align: center;
+	background-color:#0EAA21; 
+	height: 40px;
+	width: 180px;
+	font-weight: bold;
+	
+	color: white;
+}
+
+.footer{
+	box-sizing: border-box;
+	overflow: hidden;
+	padding-top: 25px;
+	padding-left: 25px;
+	padding-bottom: 10px;
+	margin: 0;
+	
+	background: #3A3C3A;
+}
+.text{
+	float: left;
+	font-weight: bold;
+	
+	box-sizing: border-box;
+	color: white;
+	
+
+}
+.butn{
+	float: right;
+	padding-right: 20px;
+	box-sizing: border-box;
+	padding-top: 15px;
+
+}
+.btn2 input{
+	text-align: center;
+	background-color:#0EAA21; 
+	height: 30px;
+	width: 175px;
+	font-weight: bold;
+	
+	color: white;	
+}
+
+.footmenu{
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.left{
+	float: left;
+	box-sizing: border-box;
+	color: grey;
+}
+
+.fmenu{
+	float: right;
+	box-sizing: border-box;
+}
+
+.fmenu ul{
+	list-style: none;
+	margin: o;
+
+}
+
+.fmenu ul li{
+	display: inline-block;
+	margin-left: -35px;
+	padding: 20px;
+	font-weight: bold;
+	color: grey;
+
+}
+.left h4{
+	margin-top: 38px;
+}
+
